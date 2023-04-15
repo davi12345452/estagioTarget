@@ -1,0 +1,27 @@
+Aqui vou deixar as respostas dos exercícios sem ou pouco código
+1)
+Deixei um código ex1 que usei para a resposta
+Resposta = 91
+
+2) Arquivo ex2.py
+
+3)
+a) Resposta: 9, sempre se soma 2 ao anterior
+b) Resposta: 128, sempre se multiplica por 2
+c) Resposta: 49, soma-se um número que aumenta de 2 em 2 e começa em 1
+d) Resposta: 100, soma-se um número que começa em 12 e aumenta 8 a cada soma ao anterior
+e) Resposta: 13, Mesma lógica de Fibonacci, soma-se os 2 anteriores
+f) Resposta: 200, números que começam com a letra D
+
+4) Os dois estarão a uma mesma distância de Ribeirão Preto. Por conta da velocidade
+do carro e dos pedágios, é fato que estarão mais próximos de França do que Ribeirão,
+porém em relação à Ribeirão Preto, a distância é a mesma:
+
+RIBEIRÃO PRETO ------------------------------- FRANÇA
+Carro:         ********************-----------
+Caminhão:      --------------------***********
+
+A distância que o carro percorreu se distânciando de Ribeirão é a mesma que falta
+para o caminhão chegar em Ribeirão, logo, estão à mesma distância da cidade.
+
+5) Arquivo ex5.py
